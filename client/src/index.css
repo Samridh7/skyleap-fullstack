@@ -1,0 +1,102 @@
+#footer {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  /* height: 10%; */
+  position: sticky;
+  bottom: 0px;
+  background-color: lightblue
+}
+
+#navbar {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+#content {
+  height: 2000px;
+  /* background-image: url("./background1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.form-control {
+  background-color: lightgray;
+}
+
+#logo {
+  height: 50px;
+  width: 80px;
+  border-radius: 200px;
+}
+
+.post-preview a {
+  text-decoration: none;
+}
+
+.post-detailed-preview {
+  width: 30%;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.comments {
+  background-color: lightblue;
+  border-radius: 20px;
+}
+
+.comments a {
+  text-decoration: none;
+}
+
+.comments i {
+  font-size: 20px;
+}
+
+.comment-tag {
+  border: none;
+  background-color: lightgray;
+  border-radius: 20px;
+}
+
+.submit-comment {
+  border: none;
+  background-color: white;
+  font-size: 19px;
+}
+
+.eachComments {
+  /* border: 2px solid black; */
+  /* margin: auto; */
+  border-radius: 20px;
+  background-color: lightgray;
+  /* color: blue; */
+}
+
+.line {
+  margin: auto;
+}
+
+.deleteComment {
+  border: none;
+  background-color: lightgray;
+}
+
+/* .login {
+  background-color: lightgray;
+} */
+
+.login img {
+  height: 200px;
+  width: 35%;
+  margin-top: 20px;
+}
+
+.login-content {
+  /* background-color: lightgray; */
+  height: 30%;
+  width: 100%;
+  /* margin-right: 20px; */
+}
+
